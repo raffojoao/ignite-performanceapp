@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ignite-performanceapp",
+    "slug": "ignite-performanceapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ignite-performanceapp"
+}
